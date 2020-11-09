@@ -31,9 +31,6 @@
       "clasificacion": "Documental"
     },
     {
-      "id": 8
-    },
-    {
       "nombre": "El sexto sentido",
       "director": "M. Night Shyamalan",
       "clasificacion": "Drama",
@@ -50,6 +47,12 @@
       "director": "M. Night Shyamalan",
       "clasificacion": "Drama",
       "id": 11
+    },
+    {
+      "id": 18,
+      "nombre": "La SIRENITA",
+      "director": "Disney",
+      "clasificacion": "Infantil"
     }
   ],
   "clasificaciones": [
